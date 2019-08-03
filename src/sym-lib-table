@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name stm32f103)(type Legacy)(uri /home/eric/code/rigidkey/library/stm32f103.lib)(options "")(descr ""))
+  (lib (name nuf2221w1)(type Legacy)(uri /home/eric/code/rigidkey/library/nuf2221w1.lib)(options "")(descr ""))
+  (lib (name lp2985-33)(type Legacy)(uri /home/eric/code/rigidkey/library/lp2985-33.lib)(options "")(descr ""))
+  (lib (name crystal-gnd)(type Legacy)(uri /home/eric/code/rigidkey/library/crystal-gnd.lib)(options "")(descr ""))
+)
