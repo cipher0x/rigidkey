@@ -772,11 +772,11 @@ Wire Wire Line
 Wire Wire Line
 	5250 5700 5250 5800
 Text Label 9550 3450 0    50   ~ 0
-D-
+-
 Text Label 9550 3550 0    50   ~ 0
-D+
++
 Text Label 7550 3550 0    50   ~ 0
-D+
++
 Text Label 7550 3650 0    50   ~ 0
-D-
+-
 $EndSCHEMATC
