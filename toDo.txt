@@ -1,0 +1,4 @@
+Add jumper for reflashing shorting pin 4 NRST to GND 
+Move C7 closer to processor
+Install processor with leads
+Fix USB diff pair
